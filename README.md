@@ -1,22 +1,31 @@
 # Python Based Control System for On-Demand Energy Supply
 
-## 📖 Project Overview
-This project is developed as a Major Project for the Bachelor of Technology (B.Tech) in Information Technology. The system is designed to control and manage on-demand energy supply using Python.
+## Project Overview
+The Python Based Control System for On-Demand Energy Supply is a web-based application developed to simplify and automate the process of on-demand fuel and energy distribution.The project is developed using HTML, CSS, and JavaScript for the frontend, Python with the Flask framework for the backend, and MySQL for database management. The system enables users to request fuel delivery online, eliminating the need to visit fuel stations and providing a faster, more convenient service.
+##  Features
+- Easy user registration and login
+- Request fuel online
+- Manage fuel stock
+- Approve fuel requests
+- Assign deliveries
+## Technologies Used
+### Frontend
+- HTML
+- CSS
+- JavaScript
 
-## 🚀 Features
-- Energy supply management
-- Python-based automation
-- User-friendly system
-- Efficient control mechanism
-
-## 🛠️ Technologies Used
+### Backend
 - Python
+- Flask Framework
+
+### Database
+- MySQL
+
+### Development Tools
+- Visual Studio Code
 
 ##  Project Files
 - Python_Based_Control_System.pdf – Project Report
-
-##  Objective
-The main objective of this project is to provide an efficient and automated system for managing energy supply based on demand.
 
 ##  Developed By
  Gurani Bhargavi
