@@ -28,8 +28,6 @@ The Python Based Control System for On-Demand Energy Supply is a web-based appli
 - Python_Based_Control_System.pdf – Project Report
 
 ##  Developed By
- Gurani Bhargavi
+ Gurani BhargaviDhanaLakshmi
 
-Bachelor of Technology (Information Technology)
 
-Jawaharlal Nehru Technological University, Hyderabad (JNTUH)
