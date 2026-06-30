@@ -1,4 +1,4 @@
- Python Based Control System for On-Demand Energy Supply
+# Python Based Control System for On-Demand Energy Supply
 
 ## 📖 Project Overview
 This project is developed as a Major Project for the Bachelor of Technology (B.Tech) in Information Technology. The system is designed to control and manage on-demand energy supply using Python.
